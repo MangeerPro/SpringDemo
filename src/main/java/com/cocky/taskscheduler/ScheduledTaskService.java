@@ -16,7 +16,7 @@ public class ScheduledTaskService {
         System.out.println("每隔5秒执行一次：" + dateFormat.format(new Date()));
     }
 
-    @Scheduled(cron = "0 04 15 ? * *")
+    @Scheduled(cron = "0 04 15 ? * *")  //系统自带定时任务
     public void fixTimeExecution() {
         
     }

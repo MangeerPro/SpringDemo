@@ -7,7 +7,7 @@
                            http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
 
 
-    <spring:component-scan base-package="com.cocky"/>
+    <spring:component-scan base-package="com.cocky.scope"/>
     <aop:aspectj-autoproxy/>
 
 </beans>

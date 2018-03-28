@@ -1,1 +1,1 @@
-Spring 的 事件（ Application Event） 为 Bean 与 Bean 之间 的 消息 通信 提供 了 支持。 当 一个 Bean 处理 完 一个 任务 之后， 希望 另外 一个 Bean 知道 并能 做 相应 的 处理， 这时 我们 就 需要 让 另外 一个 Bean 监听 当前 Bean 所 发送 的 事件。
+Spring的事件（Application Event）为Bean与Bean之间的消息通信提供了支持。当一个Bean处理完一个任务之后，希望另外一个Bean知道并能做相应的处理，这时我们就需要让另外一个Bean监听当前Bean所发送的事件。
